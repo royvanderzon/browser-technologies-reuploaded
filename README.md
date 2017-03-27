@@ -97,7 +97,7 @@ Met een screenreader werkt het nog niet helemaal optimaal. Wel is overal doorhee
 ![alt tag](https://raw.githubusercontent.com/royvanderzon/browser-technologies-reuploaded/master/3.jpg)
 ![alt tag](https://raw.githubusercontent.com/royvanderzon/browser-technologies-reuploaded/master/4.jpg)
 
-Bij het devicelab bleek dat het niet helemaal goed ging. Blijkbaar gaf de gemaakte Funda app alleen support voor de nieuwste mobiele chrome browser. Er zou **future detection** moeten worden geimplementeerd om de juiste feedback aan de gebruiker te geven.
+Bij het devicelab bleek dat het niet helemaal goed ging. Blijkbaar gaf de gemaakte Funda app alleen support voor de nieuwste mobiele chrome browser. Er zou **feature detection** moeten worden geimplementeerd om de juiste feedback aan de gebruiker te geven.
 
 - esc key function
 - colors changed
