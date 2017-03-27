@@ -88,6 +88,16 @@ Dit kan nog sneller door gebruik te maken van:
 
 ![alt tag](https://raw.githubusercontent.com/royvanderzon/browser-technologies-reuploaded/master/screenreader.png)
 
+Met een screenreader werkt het nog niet helemaal optimaal. Wel is overal doorheen te tabben en ook kan je met de pijltjestoetsen en enter navigeren. Ook zie je een grote orange border om het geselecteerde huis heen. Echter komt deze border alleen met een tab en niet na een van de pijltjestoetsen.
+
+## Devicelab
+
+![alt tag](https://raw.githubusercontent.com/royvanderzon/browser-technologies-reuploaded/master/1.jpg)
+![alt tag](https://raw.githubusercontent.com/royvanderzon/browser-technologies-reuploaded/master/2.jpg)
+![alt tag](https://raw.githubusercontent.com/royvanderzon/browser-technologies-reuploaded/master/3.jpg)
+![alt tag](https://raw.githubusercontent.com/royvanderzon/browser-technologies-reuploaded/master/4.jpg)
+
+Bij het devicelab bleek dat het niet helemaal goed ging. Blijkbaar gaf de gemaakte Funda app alleen support voor de nieuwste mobiele chrome browser. Er zou **future detection** moeten worden geimplementeerd om de juiste feedback aan de gebruiker te geven.
 
 - esc key function
 - colors changed
