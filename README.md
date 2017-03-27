@@ -82,6 +82,12 @@ Dit kan nog sneller door gebruik te maken van:
 
 - De app maakt gebruik van toetsenbord navigatie (pijltjes toetsen). Dit zou echter nog uitgebreid kunnen worden met tabs en anderen toetsen zodat de app zonder muis of trackpad te gebruiken is.
 
+### Testen
+
+## Screenreader
+
+[screenreader]: ./screenreader.png "screenreader"
+
 
 - esc key function
 - colors changed
