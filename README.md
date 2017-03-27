@@ -86,7 +86,7 @@ Dit kan nog sneller door gebruik te maken van:
 
 ## Screenreader
 
-[screenreader]: ./screenreader.png "screenreader"
+![alt tag](https://raw.githubusercontent.com/royvanderzon/browser-technologies-reuploaded/master/screenreader.png)
 
 
 - esc key function
